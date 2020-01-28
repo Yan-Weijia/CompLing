@@ -1,7 +1,6 @@
 Brother B-PRS
 In I-PRS
-Arms I-PRS
-: I-PRS
+Arms: I-PRS
 Earned I-PRS
 In I-PRS
 Blood I-PRS
@@ -15,8 +14,7 @@ Blood I-PRS
 войне O
 Brother B-PRS
 In I-PRS
-Arms I-PRS
-: I-PRS
+Arms: I-PRS
 Road I-PRS
 To I-PRS
 Hill I-PRS
