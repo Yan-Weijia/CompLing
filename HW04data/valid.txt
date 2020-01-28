@@ -7,16 +7,19 @@ PS4 O
 обмена O
 нет O
 " O
+
 " O
 В O
 комплекте O
 только O
 приставка O
 . O
+
 Перестала O
 читать O
 диски O
 . O
+
 С O
 флешки O
 крутит O
@@ -26,14 +29,17 @@ PS4 O
 и O
 тп O
 . O
+
 В O
 комплекте O
 только O
 приставка O
 . O
+
 Торг O
 . O
 " O
+
 " O
 Игровой O
 Руль O
@@ -41,6 +47,7 @@ PS4 O
 отличном O
 состоянии O
 . O
+
 В O
 комплект O
 входит O
@@ -54,6 +61,7 @@ PS4 O
 для O
 руля O
 . O
+
 Драйвер O
 для O
 этого O
@@ -64,6 +72,7 @@ PS4 O
 ОС O
 Windows O
 " O
+
 " O
 Камера O
 , O
@@ -78,6 +87,7 @@ muve O
 1200 O
 р O
 . O
+
 Джостик O
 dualshok B-PRS
 3 I-PRS
@@ -86,6 +96,7 @@ dualshok B-PRS
 р O
 . O
 " O
+
 Игры O
 для O
 Xbox O
@@ -95,6 +106,7 @@ Xbox O
 хорошем O
 состоянии O
 . O
+
 По O
 400 O
 рублей O
@@ -102,6 +114,7 @@ Xbox O
 каждый O
 диск O
 . O
+
 " O
 Имеются O
 игры O
@@ -137,6 +150,7 @@ warfare I-PRS
 на O
 консоли O
 " O
+
 " O
 Идеальное O
 состояние O
@@ -145,11 +159,13 @@ warfare I-PRS
 не O
 интересует O
 " O
+
 " O
 Fifa B-PRS
 400 I-PRS
 Destiny B-PRS
 600 I-PRS
+
 " O
 пользовались O
 редко O
@@ -162,33 +178,41 @@ Destiny B-PRS
 Уникальная O
 упаковка O
 . O
+
 Naruto B-PRS
 rise I-PRS
 of I-PRS
 ninja I-PRS
 600 O
+
 NHL B-PRS
 16 I-PRS
 Legacy I-PRS
 Edition I-PRS
 (NEW) O
 1800 O
+
 NBA B-PRS
 2k9	I-PRS
 550 O
+
 Ninja B-PRS
 Blade	I-PRS
 600 O
+
 Neverdead B-PRS
 650 O
+
 NFS B-PRS
 Pro I-PRS
 Street	I-PRS
 600 O
+
 NFS B-PRS
 Shift I-PRS
 2	I-PRS
 600 O
+
 Outland B-PRS
 , I-PRS
 From I-PRS
@@ -201,39 +225,48 @@ Evil I-PRS
 HD I-PRS
 (3в1) O
 600 O
+
 Omerta B-PRS
 City I-PRS
 of I-PRS
 Gangsters I-PRS
 700 O
+
 Over B-PRS
 G I-PRS
 Fighters I-PRS
 600 O
+
 Perfect B-PRS
 Dark I-PRS
 Zero I-PRS
 600 O
+
 Plants B-PRS
 vs I-PRS
 zombies	I-PRS
 750 O
+
 Don B-PRS
 King I-PRS
 Prizefighter I-PRS
 650 O
-Ratatouille	B-PRS
+
+Ratatouille B-PRS
 650 O
+
 Resident B-PRS
 Evil I-PRS
 5	
 600 O
+
 Resident B-PRS
 Evil I-PRS
 Operation I-PRS
 Raccoon I-PRS
 City	I-PRS
 650 O
+
 Red B-PRS
 Dead I-PRS
 Redemption I-PRS
